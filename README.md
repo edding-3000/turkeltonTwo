@@ -2,7 +2,7 @@
 
 A preview of TurkeltonTwo can be found [here](https://www.hausersebastian.de/#typedesign)
 
-You can use TurkeltonTwo both commercially and privately for your projects. I would be happy about credits but you don't need to give any. You should mention the name of the font and the author wherever you publish photos of the product online (on the product’s page, instagram posts, or on your portfolio page), like this: “Turkelton-Two by Sebastian Hauser” (or any similar formula). 
+You can use TurkeltonTwo both commercially and privately for your projects. You don't have to provide credits (but I would appreciate it if you did) :). If you want to provide credeits you should mention the name of the font and the author wherever you publish photos of the product online (on the product page, in Instagram posts or on your portfolio page), like this: “Turkelton-Two by Sebastian Hauser” (or any similar formula). 
 
 > [!WARNING]  
 > The kerning is not optimal and needs to be reworked :woozy_face: I am happy about help and comments :)
